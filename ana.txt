@@ -1,0 +1,9 @@
+Homework: 1
+Grade: 10.0
+Delivered in week: 7
+Deadline: 7
+Feedback: done
+
+Homework: 12
+Grade: 5.0
+Delivered in week: 3
